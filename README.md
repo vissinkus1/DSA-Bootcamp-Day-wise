@@ -10,9 +10,9 @@ The problems are organized day by day and are primarily sourced from LeetCode. T
 
 - **Language:** Java
 - **Duration covered:** 19 completed days
-- **Solutions:** 83 Java files
+- **Solutions:** 91 Java files
 - **Platform style:** LeetCode-compatible `Solution` classes
-- **Organization:** One folder for each bootcamp day
+- **Organization:** One folder for each bootcamp day, plus a Test revision set
 
 ## Topics Covered
 
@@ -51,6 +51,7 @@ The problems cover a broad range of DSA topics, including:
 | [Day 18](Day%2018) | Bit manipulation and greedy techniques | 5 |
 | [Day 19](Day%2019) | Tries, linked lists, and stacks | 3 |
 | [Day 20](Day%2020) | Current bootcamp day | 0 |
+| [Test](Test) | Interview revision problems | 8 |
 
 ## Folder Structure
 
@@ -62,6 +63,7 @@ The problems cover a broad range of DSA topics, including:
 ├── ...
 ├── Day 19/
 ├── Day 20/
+├── Test/
 └── README.md
 ```
 
